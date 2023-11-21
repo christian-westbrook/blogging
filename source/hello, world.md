@@ -4,7 +4,11 @@ Welcome to my first blog post, and the reboot of [christianwestbrook.dev](https:
 
  I'm a Senior Software Engineer in the [space industry](https://www.lockheedmartin.com/en-us/capabilities/space.html) and a PhD candidate at [CSU](https://www.engr.colostate.edu/ece/). In 2016 I founded [an award-winning bookstore and coffee shop](https://www.chaptersonmain.com/).
 
+
+
 I'm happily married to [my best friend](https://www.malachiwestbrookphotography.com/). We celebrate our anniversary once every four years (she says I'm her leap day love). We like to play board games and try new coffee shops between DIY projects on our 100 year old home in Arkansas.
+
+
 
  I strive to build things that make the world a better place. I've led and contributed to projects that preserve things I care about:
 

@@ -1,3 +1,5 @@
+# Building a Blog Engine
+
 Ownership of the digital platform where your content lives may seem outlandish in the age of centralized social networking, but there are benefits to being in control.  
 
 By giving your content to someone else's platform, you allow them not only to own your content, but your **audience** also. By taking ownership of your platform and your content, you can start to build ownership of your audience as well.  

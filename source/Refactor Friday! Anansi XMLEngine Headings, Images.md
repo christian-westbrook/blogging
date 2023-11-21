@@ -1,4 +1,4 @@
-# Refactor Friday! Anansi XMLEngine Headings, Images
+# Refactor Friday! Anansi XMLEngine
 
 Welcome to the first Refactor Friday! In this blog series I'll take on one small refactoring task at a time and explain:
 

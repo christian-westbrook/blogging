@@ -9,13 +9,13 @@ Today I'm refactoring [Anansi](https://github.com/christian-westbrook/anansi), t
 
 # Motivation
 
-I launched christianwestbrook.dev so that I could share my ideas about the things I love doing. These things usually involve writing software! 
+I launched christianwestbrook.dev so that I could share my ideas about the things I love to do. Many of these things involve writing software! This means that the blog needs the ability to handle lots of code blocks.
 
-Anansi is a minimalist blogging platform that's mostly written in PHP. 
+This site is a deployment of [Anansi](https://github.com/christian-westbrook/anansi), a minimalist open-source blogging platform. Anansi doesn't currently support rendering code blocks in blogs posts, and would even need design improvements to make it happen. This seems like the perfect opportunity to add value through refactoring!
 
 # Situation
 
-Anansi is a minimalist blogging platform that's mostly written in PHP. In fact, this site is a deployment of Anansi! It's purpose is simple: to give authors a simple, open-source solution for blog hosting.
+Anansi is mostly written in PHP. It's purpose is simple: to give authors a simple, open-source solution for blog hosting.
 
 To provide the actual blog feed, Anansi reads from a store of XML files representing blog posts. Each blog's file stores content written in Markdown, which is easy to deal with when writing. I love that [my favorite writing tool](https://hemingwayapp.com/) supports exporting text as Markdown content!
 
