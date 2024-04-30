@@ -1,35 +1,18 @@
-Welcome to my first blog post, and the reboot of [christianwestbrook.dev](https://www.christianwestbrook.dev/)! I'll kick things off by explaining who I am and why **you should be here**.
+Welcome to my first blog post, and the reboot of [christianwestbrook.dev](https://www.christianwestbrook.dev/)! I'll kick things off by explaining who I am and why you should be here.
 
 # About me
 
- I'm a Senior Software Engineer in the [space industry](https://www.lockheedmartin.com/en-us/capabilities/space.html) and a PhD candidate at [CSU](https://www.engr.colostate.edu/ece/). In 2016 I founded [an award-winning bookstore and coffee shop](https://www.chaptersonmain.com/).
+I'm a passionately curious human with a mission to leave the universe a better place than I found it. I work towards this goal by building things and sharing ideas that I believe can make a difference.
+
+I'm currently working as a Systems Architect in the space industry where I've won awards for designing systems that protect public drinking water, prevent the spread of disease, and defend against ballistic missile attacks. I'm also a PhD candidate at Colorado State University where I [write](https://arxiv.org/abs/2303.02214) about protecting the public from vulnerabilities found in embedded deep learning systems.
+
+I'm happily married to [my best friend](https://www.malachiwestbrookphotography.com/about/) and greatest inspiration. We celebrate our anniversary once every four years (she's my leapday love). In 2016 we founded [an award-winning bookstore and coffee shop](https://www.chaptersonmain.com/) and in 2022 we bought and remodeled a 100-year-old home in Arkansas. We love playing board games, expanding an (eventually) autonomous home garden, and experimenting with new coffee shops.
+
+I've been [playing RuneScape](https://www.youtube.com/@twinnrova) for nearly twenty years. I also enjoy playing chess and participating in heavy metal culture. I'm an avid reader and I'm hopelessly addicted to side projects.
+
+I'm constantly learning new things. On paper I've studied information technology, computer science, and computer engineering. In reality I invest a lot of time into learning about things that are meaningful to me.
 
 
-
-I'm happily married to [my best friend](https://www.malachiwestbrookphotography.com/). We celebrate our anniversary once every four years (she says I'm her leap day love). We like to play board games and try new coffee shops between DIY projects on our 100 year old home in Arkansas.
-
-
-
- I strive to build things that make the world a better place. I've led and contributed to projects that preserve things I care about:
-
-*   Protecting [public drinking water](https://www.lockheedmartin.com/en-us/who-we-are/eesh/remediation.html) from contamination
-*   Protecting my coworkers from the spread of COVID-19 in the workplace
-*   Protecting the free world from [ballistic missile attacks](https://www.lockheedmartin.com/en-us/products/sbirs.html)
-*   Protecting the public from [vulnerabilities in deep learning](https://arxiv.org/abs/2303.02214) systems
-
-I'm passionate about learning. On paper I've studied information technology, computer science, and computer engineering. In reality I invest a lot of time into learning about things that are meaningful to me. Here are a few recent study topics:
-
-*   Adversarial Machine Learning
-*   Spacecraft Dynamics
-*   Control Theory
-*   Mechatronics
-*   Nuclear Chemistry
-*   Phased Array Radio Antennas
-*   Philosophy
-*   PCB Design
-*   Wisdom Literature
-
-I've been playing [RuneScape](https://www.runescape.com/community) for nearly twenty years and am working to earn the [max cape](https://runescape.wiki/w/Max_cape). I enjoy playing chess and participating in heavy metal culture. I'm an avid reader and I'm hopelessly addicted to side projects.
 
 # About this blog
 
